@@ -1,7 +1,7 @@
 project:
-  name: 'ISII-2526-GrupoB-Scrumers'
+  name: 'ISII-2526-GrupoB-Scrumer'
   owner: 'GrupoB'
-  teamId: 'Scrumers'
+  teamId: 'Scrumer'
   identities: {}
   notifications:
     email: 'alvaro.naranjo@alu.uclm.es,angel.torrijos1@alu.uclm.es,alejandro.patino@alu.uclm.es,sergio.cortijo@alu.uclm.es'
